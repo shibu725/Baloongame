@@ -1,1 +1,1 @@
-# Baloongame
+Simple baloon smashing game using Computer vision in Python ,which specifically works on the specified version and the IDE which I used is PYCHARM ,versioon 2021.2.1 which is a super suit for game installing functions and packages.
